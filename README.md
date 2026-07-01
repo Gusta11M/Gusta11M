@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Hi there, I'm Gustavo Marques! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <h3>👨‍💻 Computer Systems Engineering Student</h3>
+  <h3>👨‍💻 Computer Systems Engineering </h3>
   <p><em>"Driven by curiosity, exploring the world of Software Engineering."</em></p>
 
   <a href="https://www.linkedin.com/in/gustavo-marques-32424a2b3">
@@ -17,7 +17,7 @@
 
 ### 🧐 About Me
 
-- 🎓 I am currently studying **Computer Systems Engineering**.
+- 🎓 I am **Computer Systems Engineering**.
 - 🔭 I'm adopting a **generalist approach**, building a strong foundation across various technologies to find my true passion.
 - 💡 I have a growing fascination for **Artificial Intelligence** 🤖 and **Cybersecurity** 🔐.
 - ⚽ **Fun Fact:** When I'm not studying code, I'm probably watching or playing **football**.
